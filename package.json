@@ -1,0 +1,24 @@
+{
+  "name": "handlebuild",
+  "version": "1.0.0",
+  "description": "A simple package for generating handlebars-compiled HTML to a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borumer/handlebuild.git"
+  },
+  "keywords": [
+    "filewriter",
+    "handlebarsjs",
+    "lightweight"
+  ],
+  "author": "Varun Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Borumer/handlebuild/issues"
+  },
+  "homepage": "https://github.com/Borumer/handlebuild#readme"
+}
